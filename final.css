@@ -47,9 +47,13 @@ table {
 	margin-top: -3px;
 }
 #baner {
-	width: 100%;
-	display: inline-block;
+	width: 1050px;
+	height: 345px;
+	display: block;
+	margin: auto;
 	z-index: 1;
+	background-image: url(img/background.jpg);
+	background-repeat: no-repeat;
 }
 header {
 	display: inline-block;
